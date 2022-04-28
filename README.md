@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @BuenoIT
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning computer programming
-- 💞️ I’m looking to collaborate on programming challenges
-- 📫 How to reach me by email (bueno.itdev@gmail.com)
+- ### Greetings, my name is Guilherme Bueno👋
+
+💻 Junior Programmer | 🌎 Kitchener, Canada | 🎯 Seeking a position as a developer
+
+### You can reach me here :bowtie:
+
+[![Linkedin Badge](https://img.shields.io/badge/-GuilhermeBueno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-bueno-pmp)](https://www.linkedin.com/in/guilherme-bueno-pmp)
 
 <!---
 BuenoIT/BuenoIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
