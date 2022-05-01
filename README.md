@@ -26,16 +26,14 @@
 
 <br/>
 
-
 **📕 Latest Posts**   
 - [50 years of work - Ari Bueno (dad)](https://www.linkedin.com/feed/update/urn:li:activity:6915507453035991040/)
-
-<br/>
 
 <br/>
 <br/>
 
 **My Contributions ⚡**
+<br/>
 <br/>
 <a href="https://github.com/LarissaAzevedo/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=BuenoIT&count_private=true&show_icons=true&theme=onedark" />
