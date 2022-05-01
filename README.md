@@ -38,7 +38,7 @@
 **My Contributions ⚡**
 <br/>
 <a href="https://github.com/LarissaAzevedo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LarissaAzevedo&count_private=true&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=BuenoIT&count_private=true&show_icons=true&theme=onedark" />
 </a>
 
 <br/>
