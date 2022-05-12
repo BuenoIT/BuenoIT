@@ -9,7 +9,7 @@
 
 ---
 
-💻 I am currently looking for work<br>
+💻 I am currently looking for a junior developer role<br>
 📚 I'm currently enrolled in a computer programming course at Conestoga College (Diploma)<br>
 💬 Ask me about anything related to JavaScript Development<br>
 🎮  Graduate in Production Engineering <br>
