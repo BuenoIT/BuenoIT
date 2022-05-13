@@ -10,7 +10,7 @@
 ---
 
 💻 I am currently looking for a junior developer role<br>
-📚 I am enrolled in a computer programming course at Conestoga College in Canada 🇨🇦 .<br>
+📚 I am enrolled in a computer programming course at Conestoga College in Canada :canada: <br>
 💬 Ask me about anything related to JavaScript Development<br>
 🎮  Graduate in Production Engineering <br>
 🐶 I love dogs and online games 🎮...<br>
