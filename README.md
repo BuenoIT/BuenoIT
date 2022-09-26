@@ -1,6 +1,6 @@
 ### Greetings, my name is Guilherme Bueno👋
 
-💻 Junior Programmer | 🌎 Kitchener, Canada | 🎯 Seeking a remote position as a developer
+💻 Junior Programmer | 🌎 Waterloo, Canada | 🎯 Seeking a remote position as a developer
 
 ### You can reach me here :bowtie:
 
@@ -36,7 +36,7 @@
 **My Contributions ⚡**
 <br/>
 <br/>
-<a href="https://github.com/LarissaAzevedo/github-readme-stats">
+<a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=BuenoIT&count_private=true&show_icons=true&theme=onedark" />
 </a>
 
