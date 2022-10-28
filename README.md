@@ -1,6 +1,6 @@
 ### Greetings, my name is Guilherme Bueno👋
 
-💻 Junior Programmer | 🌎 Waterloo, Canada | 🎯 Seeking a remote position as a developer
+💻 Software Engineer | 🌎 Waterloo, Canada | 🎯 Seeking a remote position as a developer
 
 ### You can reach me here :bowtie:
 
@@ -15,14 +15,6 @@
 📎 Graduate in Production Engineering + MBA in Project Management <br>
 🐶 I love dogs and online games 🎮...<br>
 💫 and life :)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <br/>
 
