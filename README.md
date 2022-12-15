@@ -1,6 +1,6 @@
 ### Greetings, my name is Guilherme Bueno👋
 
-💻 Software Engineer | 🌎 Waterloo, Canada | 🎯 Seeking a remote position as a developer
+💻 Software Developer | 🌎 Waterloo, Canada | 🎯 Seeking a position as a developer
 
 ### You can reach me here :bowtie:
 
