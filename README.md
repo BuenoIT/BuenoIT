@@ -19,6 +19,7 @@
 <br/>
 
 **📕 Latest Posts**   
+- [C# Student Leader (Tutor)](https://www.linkedin.com/feed/update/urn:li:activity:7018627606656815104/)
 - [Development Journey](https://www.linkedin.com/posts/guilherme-bueno-pmp_vamos-falar-sobre-uma-jornada-do-zero-em-activity-6937857879613878272-fOrm?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [50 years of work - Ari Bueno (dad)](https://www.linkedin.com/feed/update/urn:li:activity:6915507453035991040/)
 
