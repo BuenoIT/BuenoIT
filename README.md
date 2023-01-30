@@ -10,15 +10,16 @@
 ---
 
 💻 I am currently looking for a junior developer role<br>
-📚 I am enrolled in a computer programming course at Conestoga College in Canada :canada: <br>
-💬 Ask me about anything related to JavaScript Development<br>
-📎 Graduate in Production Engineering + MBA in Project Management <br>
+📚 I am enrolled in a computer programming course at Conestoga College in Canada <br>
+💬 Ask me about anything related to .NET, Azure, React and, Javascript<br>
+📎 Graduate in Production Engineering and have a MBA in Project Management <br>
 🐶 I love dogs and online games 🎮...<br>
 💫 and life :)
 
 <br/>
 
 **📕 Latest Posts**   
+- [AZ-204 Certification](https://www.linkedin.com/posts/guilherme-bueno-pmp_canada-softwaredeveloper-azure-activity-7025916766946004992-eelm?utm_source=share&utm_medium=member_desktop)
 - [C# Student Leader (Tutor)](https://www.linkedin.com/feed/update/urn:li:activity:7018627606656815104/)
 - [Development Journey](https://www.linkedin.com/posts/guilherme-bueno-pmp_vamos-falar-sobre-uma-jornada-do-zero-em-activity-6937857879613878272-fOrm?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [50 years of work - Ari Bueno (dad)](https://www.linkedin.com/feed/update/urn:li:activity:6915507453035991040/)
