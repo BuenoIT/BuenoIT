@@ -18,7 +18,8 @@
 
 <br/>
 
-**📕 Latest Posts**   
+**📕 Latest Posts**
+- [High Distinction Diploma Computer Programming](https://www.linkedin.com/feed/update/urn:li:activity:7057686547940216834/)
 - [AZ-204 Certification](https://www.linkedin.com/posts/guilherme-bueno-pmp_canada-softwaredeveloper-azure-activity-7025916766946004992-eelm?utm_source=share&utm_medium=member_desktop)
 - [C# Student Leader (Tutor)](https://www.linkedin.com/feed/update/urn:li:activity:7018627606656815104/)
 - [Development Journey](https://www.linkedin.com/posts/guilherme-bueno-pmp_vamos-falar-sobre-uma-jornada-do-zero-em-activity-6937857879613878272-fOrm?utm_source=linkedin_share&utm_medium=member_desktop_web)
