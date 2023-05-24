@@ -9,10 +9,9 @@
 
 ---
 
-💻 I am currently looking for a junior developer role<br>
-📚 I am enrolled in a computer programming course at Conestoga College in Canada <br>
-💬 Ask me about anything related to .NET, Azure, React and, Javascript<br>
-📎 Graduate in Production Engineering and have a MBA in Project Management <br>
+💻 I am currently looking for a junior software developer position<br>
+📚 North American diploma in Computer Programming from Conestoga College<br>
+💬 Ask me about anything related to .NET, Azure, C#, React and others.<br>
 🐶 I love dogs and online games 🎮...<br>
 💫 and life :)
 
