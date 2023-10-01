@@ -9,7 +9,7 @@
 
 ---
 
-💻 I am currently looking for a junior software developer position<br>
+💻 I work as an IT project manager, and I'm currently making a slow shift towards working in software development <br>
 📚 North American diploma in Computer Programming from Conestoga College<br>
 💬 Ask me about anything related to .NET, Azure, C#, React and others.<br>
 🐶 I love dogs and online games 🎮...<br>
